@@ -1,0 +1,2 @@
+This is the first project I will do from scratch, applying all the information I've been given until now about HTML by The Odin Project 
+This project will cover a simple website for recipes, it will include links, images and paragraphing different types of text.
