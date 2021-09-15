@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    color: brown;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+

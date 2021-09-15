@@ -1,0 +1,28 @@
+.chef {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.odin {
+    text-align: center;
+    color: royalblue;
+}
+
+.menu{
+    text-align: center;
+}
+
+.chicken-tenders {
+    text-align: center;
+    
+}
+
+.mac-cheese {
+    text-align: center;
+}
+
+.stew {
+    text-align: center;
+}
