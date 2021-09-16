@@ -4,19 +4,35 @@ html {
     min-width: 100%;
     min-height: 100%;
 }
+
+div {
+  position: relative;
+}
+
+.border {
+    top: -16%;
+    width: 20%;
+    margin-left: 40%;
+   position: absolute;
+   z-index: -1;
+}
+
 .chef {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 15%;
     height: auto;
+    
 }
+
+
 
 .odin {
     text-align: center;
     color: black;
     font-family: 'Times New Roman', sans-serif;
-    font-size: 50px;
+    font-size: 140%;
 }
 
 .menu {
@@ -24,7 +40,7 @@ html {
     color: black;
     font-family: 'Times New Roman', sans-serif;
     font-size: xx-large;
-    
+   
 }
 .chicken-tenders {
     text-align: center;
