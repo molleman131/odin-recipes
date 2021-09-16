@@ -56,3 +56,10 @@ div {
 .stew {
     text-align: center;
 }
+
+.disclaimer {
+    bottom: 0;
+    position: fixed;
+    text-align: end;
+    color: red;
+}

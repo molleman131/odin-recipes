@@ -12,6 +12,8 @@ div {
 .title {
     font-family: 'Times New Roman', sans-serif;
     text-align: center;
+    position: relative;
+    top: -15px;
 }
 
 .pic {
@@ -31,4 +33,17 @@ div {
     top: -9%;
     width: 22.5%;
     height: 119%;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Times New Roman', sans-serif;
+    top: 30px;
+    color:black;
+}
+
+.home {
+    position: absolute;
+    top: -5700%;
+    margin-left: -3.5%;
 }
