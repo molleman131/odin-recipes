@@ -1,23 +1,35 @@
+html {
+    background: url(https://images.pexels.com/photos/349609/pexels-photo-349609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+}
 .chef {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
+    height: auto;
 }
 
 .odin {
     text-align: center;
-    color: royalblue;
+    color: black;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 50px;
 }
 
-.menu{
+.menu {
     text-align: center;
-}
-
-.chicken-tenders {
-    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: xx-large;
     
 }
+.chicken-tenders {
+    text-align: center;
+}   
+
 
 .mac-cheese {
     text-align: center;
