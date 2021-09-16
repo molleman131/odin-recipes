@@ -1,18 +1,51 @@
+html{
+    background: url(../img/background.jpg) no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  div {
+      position: relative;
+  }
 .title {
     text-align: center;
     color: brown;
+    top: -10px;
+}
+
+.border{
+    top: -9%;
+    width: 19%;
+    height: 120%;
+    margin-left: 38.5%;
+   position: absolute;
+   z-index: -1;
 }
 
 .pic {
     display: block;
-    margin-left: auto;
+    margin-left: 39.5%;
     margin-right: auto;
-    width: 50%;
+    width: 17%;
+    height: auto;
+    position: relative;
 }
 
+#text {
+    position: relative;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: large;
+    text-align: center;
+    top: 20px;
+}
 
 .next {
-    margin-left: 880px;
+    margin-left: 98%;
+}
+
+.prev {
+    top: 10%
 }
 
 
