@@ -1,16 +1,56 @@
-.chicken {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;  
+html {
+  background: url(../img/background.jpg) no-repeat;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
+#text {
+  position: relative;
+  top: 20px;
+  color:black;
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 115%;
+  text-align: center;
 }
 
 .title {
-    color: red;
-    text-align: center;
+  text-align: center;
+  color: black;
+  top: -10px;
+}
+div {
+  position: relative;
+}
+
+.border {
+  top: -9%;
+    width: 35%;
+    height: 118%;
+    margin-left: 32.5%;
+   position: absolute;
+   z-index: -1;
+}
+
+.chicken {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 31.5%;
+  height: auto;
+  
+}
+
+
+
+ingr {
+  color:black;
+  text-align: center;
+  
 }
 
 .next {
-  margin-left: 880px;
+  margin-left: 97%;
   width: auto;
 }
